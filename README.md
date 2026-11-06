@@ -1,74 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:164e63,100:0891b2&text=Somkid%20Sodsai&fontColor=ffffff&fontSize=43&fontAlignY=38&desc=Infrastructure%20%7C%20Systems%20%7C%20Cloud%20%7C%20DevOps&descAlignY=60&descSize=17&animation=fadeIn" alt="Somkid Sodsai — Infrastructure, Systems, Cloud and DevOps" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Somkid Sodsai — Infrastructure and Systems Engineer" />
 
-### Hi there, I'm Smart 👋
+<br/>
 
-**System Administrator | Infrastructure Engineer | Building toward DevOps & Platform Engineering**
+**Hello, I'm Smart.** I build, maintain, and improve infrastructure — and turn what I learn into practical projects.
 
-Based in Thailand 🇹🇭 · Building reliable systems, practical automation, and hands-on cloud labs.
+<sub>🇹🇭 Thailand · System Administration · Infrastructure Engineering · Exploring Cloud &amp; Platform Engineering</sub>
 
-[![Portfolio Labs](https://img.shields.io/badge/Portfolio-Cloud%20Labs-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somkid-s5/Portfolio-Lab)
-[![Knowledge Base](https://img.shields.io/badge/Notes-Knowledge%20Base-334155?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/somkid-s5/Personal-Knowledge-Base)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somkid-s5?tab=repositories)
+<br/><br/>
 
-</div>
-
----
-
-### 👨‍💻 About me
-
-I work with **Windows and Linux servers, virtualization, storage, databases, and enterprise infrastructure**. I enjoy turning repetitive operations into repeatable workflows and documenting what I learn through troubleshooting and hands-on labs.
-
-- 🖥️ **Infrastructure:** Windows Server, Linux, Solaris, VMware vSphere/ESXi, storage, backup
-- 🗄️ **Databases & applications:** Oracle Database, Microsoft SQL Server, IIS
-- ☁️ **Currently learning:** AWS, Microsoft Azure, Google Cloud, DevOps, and platform engineering
-- ⚙️ **Automation & operations:** PowerShell, shell scripting, Git, monitoring, CI/CD fundamentals
-- 📚 **My approach:** build → test → troubleshoot → document
-
-### 🧰 Technology stack
-
-<div align="center">
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Cloud learning focus**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<a href="https://github.com/somkid-s5/Portfolio-Lab"><strong>Explore cloud labs ↗</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/somkid-s5/Personal-Knowledge-Base"><strong>Read my notes ↗</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/somkid-s5?tab=repositories"><strong>All projects ↗</strong></a>
 
 </div>
 
-### 🚀 Featured projects
+<br/>
 
-| Project | Highlights |
-| --- | --- |
-| [**Portfolio Lab**](https://github.com/somkid-s5/Portfolio-Lab) | 20 Google Cloud solution lab guides, architecture documentation and hands-on exercises. **Guide-ready; real cloud deployment verification pending.** |
-| [**Personal Knowledge Base**](https://github.com/somkid-s5/Personal-Knowledge-Base) | Organized AWS, Azure, GCP, security, and Oracle Database learning resources. |
-| [**IT Asset Inventory**](https://github.com/somkid-s5/IT-Asset-Inventory) | Full-stack inventory application for IT assets, VMs, databases and technical documentation. |
-| [**DevOps Project Solutions**](https://github.com/somkid-s5/devops-project) | DevOps exercises including SSH server setup and static site hosting. |
+## A little about me
 
-### 📈 Current focus
+I'm a **System Administrator working with enterprise infrastructure** — Windows and Linux servers, Solaris, VMware, databases, storage, and backup. I enjoy troubleshooting real systems, automating repetitive tasks, and keeping clear technical documentation.
 
-Building stronger skills in **infrastructure automation, cloud architecture, observability, and CI/CD** through reproducible projects and clear technical documentation.
+My next chapter is **DevOps / Platform Engineering**, with a focus on practical cloud skills, monitoring, automation, and reliable delivery.
 
----
+> **How I learn:** Understand the problem → build a solution → test it → document the result.
+
+## Tools & technologies
+
+Instead of listing every tool I've ever tried, these are the technologies I work with or actively study.
+
+**Systems & infrastructure**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" title="Windows Server" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Red Hat" title="Red Hat" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" alt="VMware vSphere" title="VMware vSphere" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle Database" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" title="SQL Server" width="41" height="41"/>
+</p>
+
+**Automation & developer tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="41" height="41"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="41" height="41"/>
+</p>
+
+**Cloud learning journey**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="54" height="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure" width="43" height="43"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="43" height="43"/>
+</p>
+
+<sub>Also working with Solaris, VMware ESXi, IIS, enterprise storage, backup systems, and operational monitoring.</sub>
+
+<br/>
+
+## Selected work
+
+### ☁️ [Cloud Portfolio Lab](https://github.com/somkid-s5/Portfolio-Lab)
+**Cloud engineering · GCP · Documentation**
+
+20 Google Cloud solution lab guides with architecture material, implementation steps, verification plans, and cleanup instructions. **Documentation is guide-ready; real cloud deployment verification is still pending.**
+
+### 🗂️ [SysOps — IT Asset Inventory](https://github.com/somkid-s5/IT-Asset-Inventory)
+**Next.js · NestJS · PostgreSQL · VMware integration**
+
+An IT inventory registry for hardware assets, virtual machines, databases, and technical documentation, designed around structured inventory and access control.
+
+### 📚 [Personal Knowledge Base](https://github.com/somkid-s5/Personal-Knowledge-Base)
+**AWS · Azure · Google Cloud · Security · Oracle**
+
+My growing collection of structured technical study materials, hands-on labs, diagrams, and troubleshooting notes.
+
+### ⚙️ [DevOps Project Solutions](https://github.com/somkid-s5/devops-project)
+**Linux · SSH · Nginx**
+
+Practical server administration exercises, including remote SSH server setup and static website hosting.
+
+<br/>
+
+## Right now
+
+- Building deeper skills in **cloud architecture, automation, and CI/CD**
+- Improving how I **monitor, troubleshoot, and document** complex systems
+- Turning hands-on infrastructure knowledge into a stronger **DevOps / Platform Engineering portfolio**
+
+<br/>
 
 <div align="center">
 
-*Build it. Understand it. Document it. Improve it.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:164e63,100:0891b2" alt="Footer" />
+<sub><strong>Build with purpose. Test with evidence. Keep learning.</strong></sub>
 
 </div>
