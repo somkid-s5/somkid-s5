@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Somkid Sodsai — Infrastructure Engineer">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080e1b"/><stop offset=".55" stop-color="#0d1d2b"/><stop offset="1" stop-color="#082827"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#22d3ee" stop-opacity=".23"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#6ee7e7" stroke-opacity=".09" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="995" cy="175" r="275" fill="url(#halo)"/>
+<g fill="none" stroke-linecap="round">
+ <circle cx="976" cy="172" r="132" stroke="#5eead4" stroke-opacity=".36" stroke-width="1.5"/>
+ <circle cx="976" cy="172" r="98" stroke="#38bdf8" stroke-opacity=".24" stroke-width="1"/>
+ <circle cx="976" cy="172" r="61" stroke="#5eead4" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="5 9"/>
+ <path d="M796 172H1155M976 23V321" stroke="#67e8f9" stroke-opacity=".13"/>
+ <path d="M864 98L976 172L1090 106M855 253L976 172L1118 248" stroke="#67e8f9" stroke-opacity=".38" stroke-width="1.5"/>
+ <path d="M905 126L976 84L1046 125L1046 212L976 253L905 212Z" stroke="#5eead4" stroke-opacity=".7" stroke-width="2"/>
+ <path d="M905 126L976 172L1046 125M976 172V253" stroke="#5eead4" stroke-opacity=".7" stroke-width="2"/>
+</g>
+<g fill="#5eead4"><circle cx="864" cy="98" r="4"/><circle cx="1118" cy="248" r="4"/><circle cx="976" cy="84" r="5"/><circle cx="1046" cy="212" r="4"/></g>
+<rect x="65" y="61" width="7" height="7" rx="2" fill="#5eead4"/>
+<text x="86" y="69" fill="#8fbdc7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">BUILD  /  AUTOMATE  /  OPERATE</text>
+<text x="65" y="164" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">SOMKID SODSAI</text>
+<rect x="65" y="185" width="92" height="4" rx="2" fill="url(#accent)"/>
+<text x="65" y="229" fill="#c0d5db" font-family="Arial, Helvetica, sans-serif" font-size="25">Infrastructure &amp; Systems Engineer</text>
+<text x="65" y="275" fill="#62cfcc" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".5">Cloud  ·  Automation  ·  DevOps</text>
+<text x="65" y="326" fill="#718e9b" font-family="Arial, Helvetica, sans-serif" font-size="13">THAILAND  /  LEARNING IN PUBLIC</text>
+</svg>
