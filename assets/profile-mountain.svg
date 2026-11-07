@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Somkid Sodsai Infrastructure and Systems Engineer, glowing cyan mountain landscape">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101b"/><stop offset=".55" stop-color="#062136"/><stop offset="1" stop-color="#003958"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#00d9fa" stop-opacity=".5"/><stop offset=".4" stop-color="#00c8ff" stop-opacity=".13"/><stop offset="1" stop-color="#00bfff" stop-opacity="0"/></radialGradient>
+<linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0e496a"/><stop offset="1" stop-color="#041523"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07101b"/><stop offset=".42" stop-color="#07101b" stop-opacity=".5"/><stop offset=".7" stop-color="#07101b" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<ellipse cx="943" cy="143" rx="350" ry="180" fill="url(#glow)"/>
+<path d="M510 240L590 212L665 226L720 188L765 198L816 155L865 180L924 115L972 160L1041 78L1095 145L1173 62L1200 87V300H510Z" fill="#174f70" opacity=".4"/>
+<path d="M485 260L563 236L622 247L689 205L760 230L824 157L861 182L917 143L969 165L1045 96L1103 154L1174 91L1200 113V300H485Z" fill="url(#mount)"/>
+<path d="M532 286L620 247L682 261L734 226L800 237L864 198L922 213L970 183L1037 216L1105 166L1172 178L1200 156V300H532Z" fill="#07283d"/>
+<path d="M0 292L140 286L350 297L550 275L634 283L744 254L834 268L933 238L1008 251L1076 207L1138 237L1200 200V300H0Z" fill="#03111e"/>
+<path d="M880 200Q916 58 1025 55Q1111 56 1164 112" fill="none" stroke="#08e0f5" stroke-width="3" opacity=".85"/>
+<path d="M883 200Q919 62 1024 58Q1110 60 1161 112" fill="none" stroke="#7eeeff" stroke-width="9" opacity=".07"/>
+<rect width="860" height="300" fill="url(#fade)"/>
+<rect x="60" y="75" width="5" height="147" rx="2" fill="#22d3ee" opacity=".75"/>
+<text x="94" y="141" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="57" fill="#f1f5f9" letter-spacing="-1.4">Somkid Sodsai</text>
+<text x="95" y="191" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="28" fill="#94efff">Infrastructure &amp; Systems Engineer</text>
+<rect x="95" y="218" width="68" height="5" rx="2" fill="#22d3ee"/>
+</svg>
