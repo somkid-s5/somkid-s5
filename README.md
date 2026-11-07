@@ -1,115 +1,88 @@
 <div align="center">
+<img src="./assets/profile-mountain.svg" width="100%" alt="Somkid Sodsai — Infrastructure and Systems Engineer, cyan mountain banner" />
+</div>
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Somkid Sodsai — Infrastructure and Systems Engineer" />
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<br/>
+### About me
 
-**Hello, I'm Smart.** I build, maintain, and improve infrastructure — and turn what I learn into practical projects.
+I work with **enterprise infrastructure and operations**, including Windows and Linux servers, Solaris, VMware, databases, storage, and backup.
 
-<sub>🇹🇭 Thailand · System Administration · Infrastructure Engineering · Exploring Cloud &amp; Platform Engineering</sub>
+I enjoy building reliable systems, troubleshooting issues, automating repetitive work, and writing documentation that others can actually use.
 
-<br/><br/>
+</td>
+<td width="38%" valign="top">
 
-<a href="https://github.com/somkid-s5/Portfolio-Lab"><strong>Explore cloud labs ↗</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/somkid-s5/Personal-Knowledge-Base"><strong>Read my notes ↗</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/somkid-s5?tab=repositories"><strong>All projects ↗</strong></a>
+### My focus
 
+⚙️ Infrastructure · Operations · Automation
+
+🛡️ Reliability · Security · Monitoring
+
+☁️ Cloud · DevOps · Platform Engineering
+
+</td>
+</tr>
+</table>
+
+### Tools & Technologies
+
+<sub>Tools I use for infrastructure work, scripting, and hands-on cloud learning.</sub>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="30" height="30" alt="Windows" title="Windows" /><br/><sub>Windows</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux" /><br/><sub>Linux</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="30" height="30" alt="Ubuntu" title="Ubuntu" /><br/><sub>Ubuntu</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="30" height="30" alt="Red Hat" title="Red Hat" /><br/><sub>Red Hat</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="30" height="30" alt="Oracle" title="Oracle" /><br/><sub>Oracle</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" height="30" alt="SQL Server" title="SQL Server" /><br/><sub>SQL Server</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" height="30" alt="PowerShell" title="PowerShell" /><br/><sub>PowerShell</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" height="30" alt="Bash" title="Bash" /><br/><sub>Bash</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git" /><br/><sub>Git</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" title="Docker" /><br/><sub>Docker</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python" /><br/><sub>Python</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30" height="30" alt="Azure" title="Azure" /><br/><sub>Azure</sub></td>
+<td align="center" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud" title="Google Cloud" /><br/><sub>Google Cloud</sub></td>
+</tr>
+</table>
+<sub>Also: VMware vSphere/ESXi · Solaris · IIS · enterprise storage · backup systems · AWS learning</sub>
 </div>
 
 <br/>
 
-## A little about me
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/selected-work.svg" width="100%" alt="Selected Work: Cloud Portfolio Lab, IT Asset Inventory, Personal Knowledge Base" />
 
-I'm a **System Administrator working with enterprise infrastructure** — Windows and Linux servers, Solaris, VMware, databases, storage, and backup. I enjoy troubleshooting real systems, automating repetitive tasks, and keeping clear technical documentation.
+**Selected work**
 
-My next chapter is **DevOps / Platform Engineering**, with a focus on practical cloud skills, monitoring, automation, and reliable delivery.
+- [Cloud Portfolio Lab](https://github.com/somkid-s5/Portfolio-Lab) — 20 guide-ready GCP labs; deployment verification pending
+- [IT Asset Inventory](https://github.com/somkid-s5/IT-Asset-Inventory) — inventory system for IT operations
+- [Personal Knowledge Base](https://github.com/somkid-s5/Personal-Knowledge-Base) — structured technical learning materials
 
-> **How I learn:** Understand the problem → build a solution → test it → document the result.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/current-focus.svg" width="100%" alt="Current Focus: automation, cloud, reliability" />
 
-## Tools & technologies
+**Currently working toward**
 
-A focused view of the tools I use and the platforms I'm learning.
+- Improving infrastructure automation and repeatable operations
+- Developing practical cloud and DevOps skills through hands-on labs
+- Strengthening monitoring, troubleshooting, and technical documentation
 
-**Infrastructure & databases**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="28" height="28" alt="Windows Server" title="windows11" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="28" height="28" alt="Ubuntu" title="ubuntu" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="28" height="28" alt="Red Hat" title="redhat" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="28" height="28" alt="Oracle Database" title="oracle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="28" height="28" alt="SQL Server" title="microsoftsqlserver" />
-</p>
-
-**Scripting & development**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="28" height="28" alt="PowerShell" title="powershell" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" title="bash" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git" title="git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="python" />
-</p>
-
-**Cloud platforms · currently learning**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" height="28" alt="AWS" title="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="28" height="28" alt="Microsoft Azure" title="azure" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="28" height="28" alt="Google Cloud" title="googlecloud" />
-</p>
-
-<sub>Additional experience: Solaris · VMware vSphere/ESXi · IIS · enterprise storage · backup · monitoring</sub>
-
-<br/>
-
-## Selected work
-
-### ☁️ [Cloud Portfolio Lab](https://github.com/somkid-s5/Portfolio-Lab)
-**Cloud engineering · GCP · Documentation**
-
-20 Google Cloud solution lab guides with architecture material, implementation steps, verification plans, and cleanup instructions. **Documentation is guide-ready; real cloud deployment verification is still pending.**
-
-### 🗂️ [SysOps — IT Asset Inventory](https://github.com/somkid-s5/IT-Asset-Inventory)
-**Next.js · NestJS · PostgreSQL · VMware integration**
-
-An IT inventory registry for hardware assets, virtual machines, databases, and technical documentation, designed around structured inventory and access control.
-
-### 📚 [Personal Knowledge Base](https://github.com/somkid-s5/Personal-Knowledge-Base)
-**AWS · Azure · Google Cloud · Security · Oracle**
-
-My growing collection of structured technical study materials, hands-on labs, diagrams, and troubleshooting notes.
-
-### ⚙️ [DevOps Project Solutions](https://github.com/somkid-s5/devops-project)
-**Linux · SSH · Nginx**
-
-Practical server administration exercises, including remote SSH server setup and static website hosting.
-
-<br/>
-
-## Right now
-
-- Building deeper skills in **cloud architecture, automation, and CI/CD**
-- Improving how I **monitor, troubleshoot, and document** complex systems
-- Turning hands-on infrastructure knowledge into a stronger **DevOps / Platform Engineering portfolio**
-
-<br/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<sub><strong>Build with purpose. Test with evidence. Keep learning.</strong></sub>
+**Build · Automate · Improve**
+
+<sub>Thailand 🇹🇭 · <a href="https://github.com/somkid-s5?tab=repositories">Explore all repositories ↗</a></sub>
 
 </div>
